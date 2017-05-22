@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">OssDemo</string>
+    <string name="action_settings">Settings</string>
+    <string name="app_server">应用服务器</string>
+    <string name="sts_server">http://oss-demo.aliyuncs.com/app-server/sts.php</string>
+    <string name="bucket">sdk-demo</string>
+    <string name="bucket_hint">Bucket</string>
+    <string name="set">设置</string>
+    <string name="object_name">请输入OSS文件名，默认test</string>
+    <string name="default_object_name">test</string>
+    <string name="normal">普通上传下载</string>
+    <string name="download">下载</string>
+    <string name="upload">普通上传</string>
+    <string name="multipart_upload"> 断点上传</string>
+    <string name="multipart_pause">暂停</string>
+    <string name="multipart_resume">恢复</string>
+    <string name="multipart">断点续传上传</string>
+    <string name="resize_width">宽，默认100</string>
+    <string name="resize_height">高，默认100</string>
+    <string name="resize">图片缩略</string>
+    <string name="watermark">文字水印</string>
+    <string name="watermark_hint">请输入水印文字</string>
+    <string name="watermark_size">大小，默认100</string>
+    <string name="image_sample">更多图片处理示例</string>
+    <string name="crop">裁剪</string>
+    <string name="rotate">旋转</string>
+    <string name="title_activity_image">ImageActivity</string>
+</resources>
